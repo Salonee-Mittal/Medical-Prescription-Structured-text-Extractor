@@ -13,9 +13,11 @@ Prescription Image → Gemini Prompt + Vision → Text Output → Accuracy Evalu
 ---
 
 ## 📦 Folder Structure
-- data/: prescription images + GroundTruth.csv
-- output/: extracted_text.csv, Evaluation_results.png
-- scripts/: Medical_Prescription(1).ipynb
+- data: prescription images + GroundTruth.csv
+- output: extracted_text.csv, Evaluation_results.png
+- scripts: Medical_Prescription(1).ipynb
+
+---
 
 ## 🧠 Model: Google Gemini Flash 2.0
 
@@ -46,15 +48,19 @@ Notes:
 - Use full forms for abbreviations if possible.
 '''*
 
+---
+
 ## Evaluation Strategy
 We compare Gemini’s text output with manually annotated ground truth text using:
 ✅ Word Error Rate (WER): % of word-level errors
 ✅ Character Error Rate (CER): % of character-level errors
 Both are computed using the Hugging Face evaluate library.
 
+---
+
 ## How to Run
-Upload your images into data.
-Add your Gemini API key into the script
-Run Medical_Prescriptions(1).ipynb
+- Upload your images into data.
+- Add your Gemini API key into the script
+- Run Medical_Prescriptions(1).ipynb
 
 View output in extracted_text.csv and evaluation results in Evaluation_results.png
