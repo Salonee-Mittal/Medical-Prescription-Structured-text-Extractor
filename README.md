@@ -24,7 +24,8 @@ Prescription Image → Gemini Prompt + Vision → Text Output → Accuracy Evalu
 We use Gemini's vision capabilities to extract structured data from prescription images via prompts.
 
 ### Prompt Used and it's Structure:
--```You are an AI assistant that extracts structured data from a handwritten medical prescription. Please return the output in valid JSON format with the following schema:
+```bash
+You are an AI assistant that extracts structured data from a handwritten medical prescription. Please return the output in valid JSON format with the following schema:
 {
   "date": str,
   "patient_name": str,
@@ -41,12 +42,13 @@ We use Gemini's vision capabilities to extract structured data from prescription
   "diagnosis": str,
   "other_instructions": str
 }
+```
 
 Notes:
 - If any value is not found, return it as an empty string.
 - Extract only the most important or first-mentioned medicine from the prescription.
 - Use full forms for abbreviations if possible.
-'''*
+
 
 ---
 
