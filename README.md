@@ -10,20 +10,19 @@ We extract key medical details like patient name, doctor name, medications (incl
 ## 📷 Pipeline Overview
 Prescription Image → Gemini Prompt + Vision → Text Output → Accuracy Evaluation
 
-## 📦 Folder Structure
-medical-prescription-structure-extractor/ ├── data/ # Contains prescription images + GroundTruth.csv ├── output/ # Extracted_text.csv, evaluation_results.png ├── scripts/ # Python code for extraction + evaluation ├── evaluation/ # (Optional) Helper evaluation scripts ├── README.md # This file
-
 ---
+
+## 📦 Folder Structure
+- data/: prescription images + GroundTruth.csv
+- output/: extracted_text.csv, Evaluation_results.png
+- scripts/: Medical_Prescription(1).ipynb
 
 ## 🧠 Model: Google Gemini Flash 2.0
 
 We use Gemini's vision capabilities to extract structured data from prescription images via prompts.
 
 ### Prompt Used and it's Structure:
-*```You are an AI assistant that extracts structured data from a handwritten medical prescription.
-
-Please return the output in valid JSON format with the following schema:
-
+-```You are an AI assistant that extracts structured data from a handwritten medical prescription. Please return the output in valid JSON format with the following schema:
 {
   "date": str,
   "patient_name": str,
