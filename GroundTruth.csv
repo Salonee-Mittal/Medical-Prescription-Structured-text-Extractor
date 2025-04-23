@@ -1,0 +1,266 @@
+Image_path,Ground_truth
+/content/data/100.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""W. P. BAKER"",
+  ""doctor_address"": ""Keefe Building"",
+  ""doctor_specialty"": ""Physician and Surgeon"",
+  ""medications"": [
+    {
+      ""name"": ""extract Cannabis Indica"",
+      ""dosage"": ""4 grains"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Croton Chloral"",
+      ""dosage"": ""16 grains"",
+      ""frequency"": """",
+      ""duration"": """"
+    }, 
+    {
+      ""name"": ""Forti Capsules"",
+      ""dosage"": ""16"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Sick headache"",
+  ""other_instructions"": ""give one tablespoon repeat in 1/2 hour""
+}
+```"
+/content/data/101.jpg,"```json
+{
+  ""date"": ""8/9/21"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""T. Diclo oo"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": ""3 days""
+    },
+    {
+      ""name"": ""T. Ransu oo"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": ""3 days""
+    },
+    {
+      ""name"": ""T. BC"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": ""3 days""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/102.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""meds"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Menses: Very light"",
+  ""other_instructions"": ""Last PAP ~ 1 yr ago\nSlim nos. no. 140 string seen\n no. 140 hook used\nUltrasound to check position of 140 of 140\nReturn to clinic after 4-5 days\nDTC for removal""
+}
+```"
+/content/data/103.jpg,"```json
+{
+  ""date"": ""7-29-20"",
+  ""patient_name"": ""Ozzy Salbrus"",
+  ""patient_age"": ""25"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""R. G. COMBS"",
+  ""doctor_address"": ""Res, 4th. & Olive St. Phone 518"",
+  ""doctor_specialty"": ""M. D."",
+  ""medications"": [
+    {
+      ""name"": ""Cocaine"",
+      ""dosage"": ""80O U"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ung resorcin comp"",
+      ""dosage"": ""ZT"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Apply 3 times a day.""
+}
+```"
+/content/data/104.jpg,"```json
+{
+  ""date"": ""11/5/21"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Sr. Dr. mlm"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": """",
+  ""diagnosis"": ""Temporal bone Erosion lateral Semicircular Canal, Retracted Tympanic Membrane, Sclerosed Mastoid, Ossicle intact"",
+  ""other_instructions"": ""PTA Impedance""
+}
+```"
+/content/data/105.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Raj Kamal Agarwal"",
+  ""doctor_address"": ""Sir Gangaram Hospital Rajinder Nagar, New Delhi-110060"",
+  ""doctor_specialty"": ""Sr. Consultant, Deptt. of Anaesthesiology, Pain & Peri Operative Medicine"",
+  ""medications"": [
+    {
+      ""name"": ""Hydroxychloroquine"",
+      ""dosage"": ""400 mg"",
+      ""frequency"": ""once a week"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Vitamin C"",
+      ""dosage"": ""one gram"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Zinc"",
+      ""dosage"": ""50 mg"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Crocin/Calpol"",
+      ""dosage"": ""650 mg"",
+      ""frequency"": ""SOS"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Cetrizine"",
+      ""dosage"": ""10 mg"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Syrup Alex"",
+      ""dosage"": ""2/3 Teaspoon"",
+      ""frequency"": ""three times a day"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""As per ICMR guidelines, the contacts of COVID positive cases should be put on HOME ISOLATION even with Mild Symptome. It is advised that everybody takes these preventive medication apart from following SOCIAL DISTANCING, HAND HYGIENE & WEARING MASK.
+}
+```"
+/content/data/107.jpg,"```json
+{
+  ""date"": ""3.23.03"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""HA Brocon"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""M. D."",
+  ""medications"": [
+    {
+      ""name"": ""Codeinas Sulph"",
+      ""dosage"": ""4 grain"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ext. Sanguinarias Al. "",
+      ""dosage"": ""Z 4"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Syrupi. Yerba Saut. Arom"",
+      ""dosage"": ""Z 4"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Zss - Z1/1; when necessary as directed""
+}
+```"
+/content/data/108.jpg,"```json
+{
+  ""date"": ""13/7/2021"",
+  ""patient_name"": ""LAXMI"",
+  ""patient_age"": ""52 Y/ 0"",
+  ""patient_gender"": ""Female"",
+  ""patient_address"": ""PITAM PURA"",
+  ""doctor_name"": ""kumud"",
+  ""doctor_address"": ""Bhagwan Mahavir Hospital, Pitampura, Delhi, 110034"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Diclo"",
+      ""dosage"": ""1 tab"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Rantac"",
+      ""dosage"": ""1 tab"",
+      ""frequency"": ""once daily before breakfast"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Inj. Diclo"",
+      ""dosage"": ""1 amp"",
+      ""frequency"": ""stat"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Inj. Rantac"",
+      ""dosage"": ""1 amp"",
+      ""frequency"": ""stat"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""ORS"",
+      ""dosage"": ""1 L water"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""K/C/O HTN, pain abdomen"",
+  ""other_instructions"": ""Review in OPD, USG on 23/3/2021 - Cholecystitis, Cholelithiasis, Muco/pyocele of GB""
+}
+```"

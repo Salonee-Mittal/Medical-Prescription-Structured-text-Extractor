@@ -1,0 +1,3765 @@
+Image_path,Extracted_text
+/content/data/86.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Bessle"",
+      ""dosage"": ""3"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""or"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""or Game"",
+      ""dosage"": ""3x"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""calombe"",
+      ""dosage"": ""of it"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Par Dover Ju"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Bu"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Joy gu xxx""
+}
+```"
+/content/data/30.jpg,"```json
+{
+  ""date"": ""13/10/2022"",
+  ""patient_name"": ""Ms. Fiza Mozawala"",
+  ""patient_age"": """",
+  ""patient_gender"": ""F"",
+  ""patient_address"": ""19/F"",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Cap. Phexin"",
+      ""dosage"": ""500mg"",
+      ""frequency"": ""1-0-1"",
+      ""duration"": ""5 days""
+    },
+    {
+      ""name"": ""Tab. Zeerodol"",
+      ""dosage"": ""PT"",
+      ""frequency"": ""1-0-1"",
+      ""duration"": ""5 days""
+    },
+    {
+      ""name"": ""Stolin gum paint"",
+      ""dosage"": """",
+      ""frequency"": ""1-0-1"",
+      ""duration"": ""5 days""
+    },
+    {
+      ""name"": ""Colgate Plax mouth wash"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": ""1 week""
+    },
+    {
+      ""name"": ""Oral B Pro 2 2000N electric brush"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/66.jpg,"```json
+{
+  ""date"": ""July 18, 2021"",
+  ""patient_name"": ""LAXMI"",
+  ""patient_age"": ""52"",
+  ""patient_gender"": ""Female"",
+  ""patient_address"": ""PITAMPURA"",
+  ""doctor_name"": ""Dille Amare"",
+  ""doctor_address"": ""Ini Stud"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Dikle Amare"",
+      ""dosage"": ""75mg"",
+      ""frequency"": ""Unknown"",
+      ""duration"": ""Unknown""
+    },
+    {
+      ""name"": ""Pentrop"",
+      ""dosage"": ""Unknown"",
+      ""frequency"": ""Unknown"",
+      ""duration"": ""Unknown""
+    }
+  ],
+  ""diagnosis"": ""cholelithiasis with gul bladder malignancy\nChaldochodithbuns with modrectedislation cf extrahepectie and intrei hebahicbillde\nMultipe pamperaume. periporton, precalceeland pericholedochel lymph made-metartrahe."",
+  ""other_instructions"": """"
+}
+```"
+/content/data/43.jpg,"```json
+{
+  ""date"": ""2-5 1916"",
+  ""patient_name"": ""R. W. Little"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""J. F. L."",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Liq. Strych"",
+      ""dosage"": ""1/120"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ac. Trit. Przd. Dil"",
+      ""dosage"": ""1/120"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Glycerin"",
+      ""dosage"": ""1/120"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ag. Chlor"",
+      ""dosage"": ""3vi"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Soft Fluid - Sepine"",
+      ""dosage"": ""3 drops"",
+      ""frequency"": ""three times daily before meals"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/121.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Zolpidem"",
+      ""dosage"": ""10mg"",
+      ""frequency"": ""once"",
+      ""duration"": ""1 week""
+    },
+    {
+      ""name"": """",
+      ""dosage"": """",
+      ""frequency"": ""0.5 once"",
+      ""duration"": ""1 week""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/59.jpg,"```json
+{
+  ""date"": ""22/1/2020"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Geetika"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Dentist"",
+  ""medications"": [
+    {
+      ""name"": ""Warm Saline rinses"",
+      ""dosage"": ""1-1-1"",
+      ""frequency"": """",
+      ""duration"": ""15 days""
+    },
+    {
+      ""name"": ""Clohex Plus Mouthwash"",
+      ""dosage"": """",
+      ""frequency"": ""twice daily"",
+      ""duration"": ""15 days""
+    },
+    {
+      ""name"": ""Ketorol DT"",
+      ""dosage"": ""SOS"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""IOPA DE 48""
+}
+```"
+/content/data/2.jpg,"```json
+{
+  ""date"": ""15-03-17"",
+  ""patient_name"": ""MS-PRATHNA"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. R.Keshwani"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""General Physician and Diabetologist"",
+  ""medications"": [
+    {
+      ""name"": ""OFLAZEST OZ"",
+      ""dosage"": ""1"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""AZENAC-MR"",
+      ""dosage"": ""1"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""ANDIAL"",
+      ""dosage"": ""2"",
+      ""frequency"": ""three times daily"",
+      ""duration"": ""3 days""
+    },
+    {
+      ""name"": ""ZOFER"",
+      ""dosage"": ""1"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Acute Gastroenteritis"",
+  ""other_instructions"": ""Dehydration""
+}
+```"
+/content/data/68.jpg,"```json
+{
+  ""date"": ""15 2 2013"",
+  ""patient_name"": ""W6BHZ"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""ACØZQ"",
+  ""doctor_address"": ""Cal Poly ARC\nUniv. Union Box 53\nSan Luis, Obispo, CA\n93407"",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Chris, thanks for the contact, I was mobile Just North of Stromsburg Nebraska at the time.""
+}
+```"
+/content/data/16.jpg,"```json
+{
+  ""date"": ""17/10/17"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Deane"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""PARACETAMOL"",
+      ""dosage"": ""1g"",
+      ""frequency"": ""QDS"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""PAIN"",
+  ""other_instructions"": ""4 HOURLY""
+}
+```"
+/content/data/6.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""Manthohan"",
+  ""patient_age"": ""55"",
+  ""patient_gender"": ""Male"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Abhishek"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""RMO COVID ward"",
+  ""medications"": [
+    {
+      ""name"": ""Romdesivir"",
+      ""dosage"": ""200 mg"",
+      ""frequency"": ""stat"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Remdesivir"",
+      ""dosage"": ""100 mg"",
+      ""frequency"": ""Once Daily"",
+      ""duration"": ""4 days""
+    }
+  ],
+  ""diagnosis"": ""Covid Pneumonia"",
+  ""other_instructions"": ""Total 6 vials""
+}
+```"
+/content/data/126.jpg,"```json
+{
+  ""date"": ""11/16/"",
+  ""patient_name"": ""Shorty Powell"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Allen Mu"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""M.D."",
+  ""medications"": [
+    {
+      ""name"": ""Phenytoin Sodium Extended"",
+      ""dosage"": ""100 mg"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""refills: 5\n#90""
+}
+```"
+/content/data/21.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""NAVEEN POLAVARAPU"",
+  ""doctor_address"": ""Apollo Hospitals, Jubilee Hills, Hyd-96."",
+  ""doctor_specialty"": ""Gastroenterology, Liver Transplant"",
+  ""medications"": [],
+  ""diagnosis"": ""severe sepsis with MODS (likely liver abscess with aspiration pneumonia)"",
+  ""other_instructions"": ""further needs hospital stay for about 8-10 days for complete recovery""
+}
+```"
+/content/data/34.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""by pumana"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""jisuk"",
+      ""dosage"": ""1208"",
+      ""frequency"": ""once every 5"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""jedaran"",
+      ""dosage"": ""off"",
+      ""frequency"": ""once every day"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/82.jpg,"```json
+{
+  ""date"": ""20/Seph"",
+  ""patient_name"": ""Babry"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Candibiotic ear drops"",
+      ""dosage"": ""1 drop"",
+      ""frequency"": ""three times daily"",
+      ""duration"": ""10-1-10""
+    },
+    {
+      ""name"": ""Tanim 0 drops"",
+      ""dosage"": ""4 drops 0.4 ml"",
+      ""frequency"": ""three times daily"",
+      ""duration"": ""2 times""
+    },
+    {
+      ""name"": ""Nasoclear nasal drops"",
+      ""dosage"": ""1-0"",
+      ""frequency"": ""as needed"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Bonnisar drops"",
+      ""dosage"": ""0.5 ml"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Otitis media"",
+  ""other_instructions"": """"
+}
+```"
+/content/data/31.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""Alan Johnson"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""92 Ibis Lane"",
+  ""doctor_name"": ""Alfred Sauls"",
+  ""doctor_address"": ""151212 S. High Rd., Chicago, IL 23875"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Erythromycin ethylsuccinate"",
+      ""dosage"": ""400 mg/5 ml"",
+      ""frequency"": ""four times daily"",
+      ""duration"": ""until all medication is taken""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""1 teaspoon four times daily until all medication is taken.""
+}
+```"
+/content/data/77.jpg,"```json
+{
+  ""date"": ""1 Nov 1994"",
+  ""patient_name"": ""Patient 31"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr B. Who"",
+  ""doctor_address"": ""Farmstreet 12\nKirkville"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Paracetamol"",
+      ""dosage"": ""500 mg"",
+      ""frequency"": ""two tablets at least 20 minutes after the metoclopramide"",
+      ""duration"": ""20 tablets""
+    },
+    {
+      ""name"": ""metoclopramide"",
+      ""dosage"": ""10 mg"",
+      ""frequency"": ""one suppository as soon as an attack is felt"",
+      ""duration"": ""5 suppositories""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/87.jpg,"```json
+{
+  ""date"": ""25/03/2021"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. G. Harsha"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": ""B/L Medical renal disease Grade II"",
+  ""other_instructions"": ""Please correlate clinically.""
+}
+```"
+/content/data/62.jpg,"```json
+{
+  ""date"": ""13145"",
+  ""patient_name"": ""Zubile Sengu"",
+  ""patient_age"": ""2y"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Rahul Thakur"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Child Specialist and Consultant"",
+  ""medications"": [
+    {
+      ""name"": ""O zi Monong"",
+      ""dosage"": ""3/4  with vegetables"",
+      ""frequency"": ""Morning (5000-8 Vamp)"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""So Flora"",
+      ""dosage"": ""6 ml"",
+      ""frequency"": ""Pt 2"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Te Frisun (Sel) 10"",
+      ""dosage"": ""1/2 x 2"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Syp Tonaferred"",
+      ""dosage"": ""2.5 ml 2"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/120.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""Wm. Burns"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""160 N. La Salle, Chicago, Ill."",
+  ""doctor_name"": ""Thos. L. Sawyer"",
+  ""doctor_address"": ""232 W. 63 St."",
+  ""doctor_specialty"": ""M.D."",
+  ""medications"": [
+    {
+      ""name"": ""Sit Hermenti"",
+      ""dosage"": ""XXXII"",
+      ""frequency"": ""q 4 hrs."",
+      ""duration"": ""8 day""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/90.jpg,"```json
+{
+  ""date"": ""1 nov 1994"",
+  ""patient_name"": ""Patient 31"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr B. Who"",
+  ""doctor_address"": ""Farmstreet 12, Kirkville"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Paracetamol"",
+      ""dosage"": ""500 mg"",
+      ""frequency"": ""two tablets at least 20 min. after the metoclopramide"",
+      ""duration"": ""20""
+    },
+    {
+      ""name"": ""metoclopramide"",
+      ""dosage"": ""10 mg"",
+      ""frequency"": ""one supp. as soon as an attach is felt."",
+      ""duration"": ""5""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/4.jpg,"```json
+{
+  ""date"": ""July 18, 2021 9:19:11 AM IST"",
+  ""patient_name"": ""LAXMI"",
+  ""patient_age"": ""52"",
+  ""patient_gender"": ""Female"",
+  ""patient_address"": ""PITAMPURA"",
+  ""doctor_name"": ""Anurag Sanger"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Senior Resident"",
+  ""medications"": [],
+  ""diagnosis"": ""Choledocholithiasis with moderate dilation of extrahepatic and intrahepatic bile ducts, multiple pampanaume, periportuum, preal cell and portal, cholidoodenal lymph node -metastatic"",
+  ""other_instructions"": """"
+}
+```"
+/content/data/48.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Howard A Albert"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Palusin"",
+      ""dosage"": ""40 mg"",
+      ""frequency"": ""once"",
+      ""duration"": ""stat""
+    },
+    {
+      ""name"": ""Albuterol"",
+      ""dosage"": """",
+      ""frequency"": ""MD KID"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Red Flow to \nNep >75%""
+}
+```"
+/content/data/103.jpg,"```json
+{
+  ""date"": ""7-29-20"",
+  ""patient_name"": ""Bry Steles"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""R. G. COMBS"",
+  ""doctor_address"": ""Res, 4th. & Olive St. Phone 518"",
+  ""doctor_specialty"": ""M. D."",
+  ""medications"": [
+    {
+      ""name"": ""Cocaine"",
+      ""dosage"": ""SUOU"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ung resorcim comp"",
+      ""dosage"": ""3T"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Apply 3 times a day.""
+}
+```"
+/content/data/101.jpg,"```json
+{
+  ""date"": ""8/9/21"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""T. Dicho ou"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": ""3days""
+    },
+    {
+      ""name"": ""T. Rasuto"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""T. BLO"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Follow up advice:""
+}
+```"
+/content/data/3.jpg,"```json
+{
+  ""date"": ""april 13 1921"",
+  ""patient_name"": ""C.B. Foward"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""306 Scioto"",
+  ""doctor_name"": ""N.M. Rhodes"",
+  ""doctor_address"": ""121/2 man. st. ubana this"",
+  ""doctor_specialty"": ""M.D."",
+  ""medications"": [
+    {
+      ""name"": ""Cocaine Hydrochlor"",
+      ""dosage"": ""gr x"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Adrenalin"",
+      ""dosage"": ""elelor MP"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Saline Sol. (Normal)"",
+      ""dosage"": ""dad 300 M."",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Sig. Locally.""
+}
+```"
+/content/data/29.jpg,"```json
+{
+  ""date"": ""23 JAN 99"",
+  ""patient_name"": ""John R. Doe, HM3, USN"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Jack R. Frost"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""LCDR. MD. USNR"",
+  ""medications"": [
+    {
+      ""name"": ""Tr Belladonna"",
+      ""dosage"": ""15 ml"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Amphogel qsad"",
+      ""dosage"": ""120 ml"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""M & Ft Solution"",
+      ""dosage"": ""5ml"",
+      ""frequency"": ""three times daily before meals"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/110.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": ""Avonulatory cycles"",
+  ""other_instructions"": ""Leep May 2012 for LSIL\nLast 2 PAPs -> July 2013 -> Dec 2013 -> normal\nO/E slim\nPAP deferred - will need\nPAP glyr. w/ Hx\nEndocrine screen\nRTC 3 weeks""
+}
+```"
+/content/data/39.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""9000 Bb"",
+  ""doctor_name"": ""Leonidas H. Berry, M. D."",
+  ""doctor_address"": ""412 EAST 47TH STREET, N. C. Corner South Parkway Chicago, Illinois"",
+  ""doctor_specialty"": ""Internal Medicine and Gastro-Enterology"",
+  ""medications"": [],
+  ""diagnosis"": """",
+  ""other_instructions"": ""to Business\nBefore wo sume Theatrite\nile now schiem togroll we\nall Bestcet back lias""
+}
+```"
+/content/data/52.jpg,"```json
+{
+  ""date"": ""3/-/3-23-10"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Schoes"",
+  ""doctor_address"": ""1336-38 & 40 CHERRY STREET PHILADELPHIA, PA."",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Potace Bron"",
+      ""dosage"": ""3"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Spto. Aummon Arouah"",
+      ""dosage"": ""3"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Elix Simplex"",
+      ""dosage"": ""3"",
+      ""frequency"": ""every day"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Two teaspoonsful every 3 hours""
+}
+```"
+/content/data/93.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Fichtloffer"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Apomorph"",
+      ""dosage"": ""0,04"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""morph muri"",
+      ""dosage"": ""1,02"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""agalia amygd amar"",
+      ""dosage"": ""5,0"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""elie poster"",
+      ""dosage"": ""20,0"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Agh destill"",
+      ""dosage"": ""30,0"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Spordingel"",
+      ""dosage"": ""15"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""4x teglich""
+}
+```"
+/content/data/125.jpg,"```json
+{
+  ""date"": ""18-8-10"",
+  ""patient_name"": ""Sheeba Malik"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Talat Aziz"",
+  ""doctor_address"": ""1430, Qasimjan St. Ballimaran Delhi-6"",
+  ""doctor_specialty"": ""M.B.B.S"",
+  ""medications"": [],
+  ""diagnosis"": ""Sciatica with Prolapse disc"",
+  ""other_instructions"": ""Complete bed rest for 3 months i.e from 18-8-18 to 18-11-18""
+}
+```"
+/content/data/71.jpg,"```json
+{
+  ""date"": ""May 24, 2003"",
+  ""patient_name"": ""W5EA"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""111 Eagle Lake brive\nWest Monroe, LA 71291"",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Good job on the pileup.""
+}
+```"
+/content/data/5.jpg,"```json
+{
+  ""date"": ""7/19"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Sonia"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Pediatric"",
+  ""medications"": [
+    {
+      ""name"": ""Syrup Epuadrex"",
+      ""dosage"": ""3.5ml"",
+      ""frequency"": ""twice daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Syrup Crecin DS"",
+      ""dosage"": ""4 ml"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Syrup Meftal-P"",
+      ""dosage"": ""4ml"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Syrup Epuadrex"",
+      ""dosage"": ""4ml"",
+      ""frequency"": ""twice daily"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Temperature chart""
+}
+```"
+/content/data/116.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""Ma Uday kumar"",
+  ""patient_age"": ""46"",
+  ""patient_gender"": ""M"",
+  ""patient_address"": """",
+  ""doctor_name"": ""N. APOORVA REDDY"",
+  ""doctor_address"": ""Kamineni Hospitals, L.B. Nagar, Hyd-68"",
+  ""doctor_specialty"": ""Head and Neck Oncosurgeon, Consultant ENT Head & Neck Surgery"",
+  ""medications"": [
+    {
+      ""name"": ""liposomal Amphotericin B"",
+      ""dosage"": ""10"",
+      ""frequency"": """",
+      ""duration"": ""2 weeks""
+    }
+  ],
+  ""diagnosis"": ""mucormycosis of paranasal sinus with meningitis"",
+  ""other_instructions"": ""Kindly do the needful""
+}
+```"
+/content/data/17.jpg,"```json
+{
+  ""date"": ""12/10/22"",
+  ""patient_name"": ""Sachin Sansare"",
+  ""patient_age"": ""28"",
+  ""patient_gender"": ""Male"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Amita"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Dentistry"",
+  ""medications"": [
+    {
+      ""name"": ""Augmentin"",
+      ""dosage"": ""625mg"",
+      ""frequency"": ""1-0-1"",
+      ""duration"": ""5 days""
+    },
+    {
+      ""name"": ""Enzoflam"",
+      ""dosage"": """",
+      ""frequency"": ""1-0-1"",
+      ""duration"": ""5 days""
+    },
+    {
+      ""name"": ""PanD"",
+      ""dosage"": ""40mg"",
+      ""frequency"": ""1-0-0"",
+      ""duration"": ""5 days""
+    },
+    {
+      ""name"": ""Hexigel gum paint"",
+      ""dosage"": """",
+      ""frequency"": ""1-0-1"",
+      ""duration"": ""1 week""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Massage after meals. Tab. Augmentin 625mg, Tab. Enzoflam 5 days.\nBefore meals. Tab. PanD 40mg 5 days.\nAdv: Hexigel gum paint 1 week.""
+}
+```"
+/content/data/92.jpg,"```json
+{
+  ""date"": ""18/5/2021"",
+  ""patient_name"": ""Mr Venkateshwar Papuri"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr.M VENKATESWARA RAO"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""General Physician"",
+  ""medications"": [
+    {
+      ""name"": ""Leposomal Amphotericin B"",
+      ""dosage"": ""300 mg"",
+      ""frequency"": ""Once daily"",
+      ""duration"": ""2 weeks""
+    },
+    {
+      ""name"": ""Amphotericin B (conventional)"",
+      ""dosage"": ""50 mg"",
+      ""frequency"": ""Once daily"",
+      ""duration"": ""2 weeks""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/65.jpg,"```json
+{
+  ""date"": ""1-24 2017"",
+  ""patient_name"": ""LINA CRUZ"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Reynaldo O. Joson"",
+  ""doctor_address"": ""MANILA DOCTORS HOSPITAL\nSuite 301, DSMT MAC, U.N. Avenue Ermita, Manila\n522-47-13; 558-08-88 Loc 4100; 0918.804.0304"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Tramadol + Paracetamol tab"",
+      ""dosage"": ""1 tab"",
+      ""frequency"": ""every 6 hours"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Quantity #20""
+}
+```"
+/content/data/54.jpg,"```json
+{
+  ""date"": ""11.28.06"",
+  ""patient_name"": ""Mickey Mouse"",
+  ""patient_age"": ""10/10/70"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Von Halberg"",
+  ""doctor_address"": ""Clinic 3A, Phillips-Wangensteen Building\n516 Delaware Street Southeast, Minneapolis, MN 55455"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Atendd"",
+      ""dosage"": ""25mg"",
+      ""frequency"": ""QD"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Take 1 po QD\nMay be refilled 6 times""
+}
+```"
+/content/data/33.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""Rahul"",
+  ""patient_age"": ""29"",
+  ""patient_gender"": ""m"",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": ""Veer Savarkar Marg, Mahim, Mumbai - 400 016"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""T. Azee"",
+      ""dosage"": ""500mg"",
+      ""frequency"": ""once daily"",
+      ""duration"": ""7 days""
+    },
+    {
+      ""name"": ""Syp Tusq"",
+      ""dosage"": ""1 tsp"",
+      ""frequency"": ""once daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""T. Pan"",
+      ""dosage"": ""40mg"",
+      ""frequency"": ""once daily"",
+      ""duration"": ""7 days""
+    },
+    {
+      ""name"": ""T. Dolo"",
+      ""dosage"": ""650 sos"",
+      ""frequency"": ""when needed"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""fever pain"",
+  ""other_instructions"": ""follow in med OPD, suspected E. reports, oral fluids""
+}
+```"
+/content/data/12.jpg,"```json
+{
+  ""date"": ""5.02.05"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Ra 20. Tre, fur Efforthe"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Novalgin fix"",
+      ""dosage"": ""4x20 Trpf."",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""LOSD 7844:\nPCA\nReserver wie verordnt""
+}
+```"
+/content/data/35.jpg,"```json
+{
+  ""date"": ""6 5 1979"",
+  ""patient_name"": ""R Dand"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Ally"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": ""Annual Eat 1978/80"",
+  ""other_instructions"": """"
+}
+```"
+/content/data/67.jpg,"```json
+{
+  ""date"": ""17/oct 2022"",
+  ""patient_name"": ""Tet"",
+  ""patient_age"": ""30"",
+  ""patient_gender"": ""Mal"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Y. Lavanya"",
+  ""doctor_address"": ""Near Ambedkar Staue, Miyapur\nHyderabad"",
+  ""doctor_specialty"": ""MBBS"",
+  ""medications"": [
+    {
+      ""name"": ""Tab. Shamlo"",
+      ""dosage"": ""5mg"",
+      ""frequency"": ""0-x"",
+      ""duration"": ""30 days""
+    },
+    {
+      ""name"": ""Tab. Arvant"",
+      ""dosage"": ""5mg"",
+      ""frequency"": ""0-x"",
+      ""duration"": ""30 days""
+    },
+    {
+      ""name"": ""Tab. Thyrox"",
+      ""dosage"": ""75mcg"",
+      ""frequency"": ""0-x"",
+      ""duration"": ""30 days""
+    },
+    {
+      ""name"": ""Tab. Aplex fort"",
+      ""dosage"": """",
+      ""frequency"": ""x-0"",
+      ""duration"": ""30 days""
+    }
+  ],
+  ""diagnosis"": ""Hypertension & Hypothyroid"",
+  ""other_instructions"": ""Fever since 3 days\nCRP\nCUE\nECG\n2D Echo\nThyroid profile\nB/ urea\nSr. Creatin\nDengue IgG IgM""
+}
+```"
+/content/data/81.jpg,"```json
+{
+  ""date"": ""2/8/19"",
+  ""patient_name"": ""Abdel marlic"",
+  ""patient_age"": ""2"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Ramesh S."",
+  ""doctor_address"": ""Kempanna Com Saraipalya Bus Thanisandra Main Bangalore - 56"",
+  ""doctor_specialty"": ""Pediatrics (CHILDREN SPECIALIST & NEONATALOGIST)"",
+  ""medications"": [
+    {
+      ""name"": ""Megacuoforte"",
+      ""dosage"": ""4 ml"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""@buges"",
+      ""dosage"": ""sul of kw"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""deeria sol"",
+      ""dosage"": ""3 times"",
+      ""frequency"": """",
+      ""duration"": ""5 days""
+    },
+    {
+      ""name"": ""Anmol rectal supp"",
+      ""dosage"": ""120mg"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/64.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": """",
+  ""other_instructions"": ""It is reported that more than 7000 people die every year due to Doctor's handwriting. It's being called DEATH BY PRESCRIPTION. Dear Doctors, I'm not saying your writing needs to be fine or anything like that, but for the love of all that is holy, at least make it legible - @FEMMY466.""
+}
+```"
+/content/data/49.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Men Sommer"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": """",
+  ""other_instructions"": ""RT O.D. -2.00 -1.00 x100\nLT O.S. -2.75 -.75 x90 /+2.25""
+}
+```"
+/content/data/105.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Raj Kamal Agarwal"",
+  ""doctor_address"": ""Sir Gangaram Hospital Rajinder Nagar, New Delhi-110060"",
+  ""doctor_specialty"": ""Anaesthesiology, Pain & Peri Operative Medicine"",
+  ""medications"": [
+    {
+      ""name"": ""Hydroxychloroquine"",
+      ""dosage"": ""400 mg"",
+      ""frequency"": ""once a week"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Vitamin C"",
+      ""dosage"": ""one gram"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Zinc"",
+      ""dosage"": ""50 mg"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Crocin/Calpol"",
+      ""dosage"": ""650 mg"",
+      ""frequency"": ""SOS"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Cetrizine"",
+      ""dosage"": ""10 mg"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Syrup Alex"",
+      ""dosage"": ""2/3 Teaspoon"",
+      ""frequency"": ""three times a day"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""contacts of COVID positive cases should be put on HOME ISOLATION even with Mild Symptome. It is advised that everybody takes these preventive medication apart from following SOCIAL DISTANCING, HAND HYGIENE & WEARING MASK.\nCrocin/Calpol In case of fever\nCetrizine and Syrup Alex In case of throat pain & cough""
+}
+```"
+/content/data/20.jpg,"```json
+{
+  ""date"": ""1/17/15"",
+  ""patient_name"": ""Mrs. J. Paris"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""128 Creek"",
+  ""doctor_name"": ""B Gmin"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Stiluesthol (milestial)"",
+      ""dosage"": ""25mg"",
+      ""frequency"": ""1 Q4H"",
+      ""duration"": ""8 days""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""then Q D""
+}
+```"
+/content/data/28.jpg,"```json
+{
+  ""date"": ""16/5/2021"",
+  ""patient_name"": ""Mr. Subhash Kumar Kulshreshtha"",
+  ""patient_age"": ""73"",
+  ""patient_gender"": ""Male"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Amol Anandrao Patil"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""ENT"",
+  ""medications"": [
+    {
+      ""name"": ""Liposomal Amphotericin B"",
+      ""dosage"": ""50mg"",
+      ""frequency"": ""6 vials / day"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/46.jpg,"```json
+{
+  ""date"": ""15-5-21"",
+  ""patient_name"": ""Ratna Harisri"",
+  ""patient_age"": ""58"",
+  ""patient_gender"": ""Female"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Sankeerth"",
+  ""doctor_address"": ""5117"",
+  ""doctor_specialty"": ""DMO"",
+  ""medications"": [
+    {
+      ""name"": ""Ambisome"",
+      ""dosage"": ""50mg"",
+      ""frequency"": """",
+      ""duration"": ""120""
+    },
+    {
+      ""name"": ""Amphotericin"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/7.jpg,"```json
+{
+  ""date"": ""22/1/19"",
+  ""patient_name"": ""Shanaya sangritha"",
+  ""patient_age"": ""6months"",
+  ""patient_gender"": ""f"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. D. Ravi Shankar"",
+  ""doctor_address"": ""Maruthi Complex, opp: South Indian bank, Suchitra."",
+  ""doctor_specialty"": ""M.D. (PED) PALS:MIAP"",
+  ""medications"": [
+    {
+      ""name"": ""T-minic drops"",
+      ""dosage"": ""0.3l-0.3l-0.30"",
+      ""frequency"": """",
+      ""duration"": ""3day""
+    },
+    {
+      ""name"": ""Asthakind drops"",
+      ""dosage"": ""0.49 ut-0.49ut"",
+      ""frequency"": """",
+      ""duration"": ""3day""
+    },
+    {
+      ""name"": ""Advent drops"",
+      ""dosage"": ""0.8-1-0.80-0.80"",
+      ""frequency"": """",
+      ""duration"": ""3day""
+    },
+    {
+      ""name"": ""Nanodem meraldrys"",
+      ""dosage"": ""00 (509"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Hizole cream"",
+      ""dosage"": """",
+      ""frequency"": ""twice daily"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""cold"",
+  ""other_instructions"": """"
+}
+```"
+/content/data/119.jpg,"```json
+{
+  ""date"": ""July 18, 2021"",
+  ""patient_name"": ""LAXMI"",
+  ""patient_age"": ""52"",
+  ""patient_gender"": ""Female"",
+  ""patient_address"": ""PITAMPURA"",
+  ""doctor_name"": ""Dilesh Mere"",
+  ""doctor_address"": ""Pentrop Guung"",
+  ""doctor_specialty"": ""Instru"",
+  ""medications"": [],
+  ""diagnosis"": ""Choledocholithiasis with gall bladder malignancy, Moderate dilatation of extrahepatic and intrahepatic hepatic bile ducts, Multiple panperena, periportuu, prealceel and pericholdoened lymph node - metutshe."",
+  ""other_instructions"": ""No safe drinking alcohol, it is harmful in any way.""
+}
+```"
+/content/data/15.jpg,"```json
+{
+  ""date"": ""3-10-06"",
+  ""patient_name"": ""Todd Blangs"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Ty Anderson"",
+  ""doctor_address"": ""4900 33rd Ave. N., St. Petersburg, FL 33710"",
+  ""doctor_specialty"": ""DO"",
+  ""medications"": [
+    {
+      ""name"": ""Methadone"",
+      ""dosage"": ""40mg"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""90""
+}
+```"
+/content/data/42.jpg,"```json
+{
+  ""date"": ""20-01-2025"",
+  ""patient_name"": ""Mario Carlos van der Vaart"",
+  ""patient_age"": ""38"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Bill Andrew Balmer"",
+  ""doctor_address"": ""Lubeckweg 2, 9723HE\nGroningen, The Netherlands"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Paracetamol"",
+      ""dosage"": ""50mg"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ibuprofen"",
+      ""dosage"": ""150mg"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/117.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""F. ADLAM"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""NOVORAPID"",
+      ""dosage"": ""6"",
+      ""frequency"": ""8AM"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""NOVORAPID"",
+      ""dosage"": ""6"",
+      ""frequency"": ""12PM"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""NOVORAPID"",
+      ""dosage"": ""6"",
+      ""frequency"": ""6PM"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""DEVICE: FLEXPEN. Start date: 28/3/18""
+}
+```"
+/content/data/53.jpg,"```json
+{
+  ""date"": ""11/03/cour"",
+  ""patient_name"": ""CHIRA AGCARWAL"",
+  ""patient_age"": ""57 yr"",
+  ""patient_gender"": ""F"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Dhananjay Gupta"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Orthopaedics, Spine Surgery & Joint Replacement"",
+  ""medications"": [],
+  ""diagnosis"": ""HSALC 7.2\nLBA- 2 years\nEdema- 5 weeks\nStand for 3 hours\nMacle Bentong Pain\nBilateral SLR\nOA"",
+  ""other_instructions"": ""X-Ray of Lumbar Spine\nAvoid over posture for more than 30 minutes\nLow Stairs\nStatic Heal\nSpine fix more than 1 month\nHip Abduction Set\nQuads strength\nC. UC more & 1/3""
+}
+```"
+/content/data/38.jpg,"```json
+{
+  ""date"": ""16-04-2022"",
+  ""patient_name"": ""Shila Dasgupta"",
+  ""patient_age"": ""57"",
+  ""patient_gender"": ""F"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Soumen Das"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Surgical Oncology Department"",
+  ""medications"": [
+    {
+      ""name"": ""Combidis"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""T2DM or OHA"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""T3N, Lesia"",
+  ""other_instructions"": ""USG: RB BIRAD 4 lesion\nFNAC: Invasive Duct Ca\nCore Biopsy (Rt) Breast\nPET CT Scan\nRMS\nBl.f FBS""
+}
+```"
+/content/data/26.jpg,"```json
+{
+  ""date"": ""6/23/95"",
+  ""patient_name"": ""Varques Ramon"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""varrious address"",
+  ""doctor_name"": ""Ram Kal"",
+  ""doctor_address"": ""500-600 W. 4th Street, Odessa, Texas"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Pendil"",
+      ""dosage"": ""20mg"",
+      ""frequency"": ""every six hours"",
+      ""duration"": ""120""
+    },
+    {
+      ""name"": ""Ferrous sulfate"",
+      ""dosage"": ""300mg"",
+      ""frequency"": ""three times daily with meals"",
+      ""duration"": ""100""
+    },
+    {
+      ""name"": ""Humulin N"",
+      ""dosage"": ""30 units"",
+      ""frequency"": ""every morning"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/72.jpg,"```json
+{
+  ""date"": ""18/11/10"",
+  ""patient_name"": ""Zahidul Hashem"",
+  ""patient_age"": ""37"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""এসকে. এম. জয়নাল আবেদীন"",
+  ""doctor_address"": ""২২/৮/ এ ব্লক-বি (শিশু মেলার বিপরীতে)শ্যামলী, মিরপুর রোড, ঢাকা"",
+  ""doctor_specialty"": ""অর্থোপেডিক সার্জন"",
+  ""medications"": [
+    {
+      ""name"": ""Ultra fen- plus"",
+      ""dosage"": ""50mg"",
+      ""frequency"": ""two times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Relentus"",
+      ""dosage"": """",
+      ""frequency"": ""zero times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Progntz 200g"",
+      ""dosage"": """",
+      ""frequency"": ""two times daily"",
+      ""duration"": ""two weeks""
+    },
+    {
+      ""name"": ""Ulmeal-D"",
+      ""dosage"": """",
+      ""frequency"": ""once daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Castilix"",
+      ""dosage"": """",
+      ""frequency"": ""two times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Diclofenac"",
+      ""dosage"": ""50mg"",
+      ""frequency"": ""two times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ultracal-D"",
+      ""dosage"": """",
+      ""frequency"": ""once daily"",
+      ""duration"": ""ten days""
+    },
+    {
+      ""name"": ""Omeproz"",
+      ""dosage"": ""200g"",
+      ""frequency"": ""two times daily"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Pain right knee for one month\nDifficulty in going up by stair\nNo bony bone"",
+  ""other_instructions"": ""xray right knee AP, lat, Axial, Tunnelw\nMRI right knee\nknee cap right\nPhysio + EWD + Exercise right knee""
+}
+```"
+/content/data/96.jpg,"```json
+{
+  ""date"": ""March 10, 2009"",
+  ""patient_name"": ""Kevin Zadnick"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Montgomery"",
+  ""doctor_address"": ""1000 University Drive, Wellington, NM 88230"",
+  ""doctor_specialty"": ""Pediatrics"",
+  ""medications"": [
+    {
+      ""name"": ""Ferrous Sulfate"",
+      ""dosage"": ""4 mL"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Dispense one bottle. Refills: 6 months""
+}
+```"
+/content/data/123.jpg,"```json
+{
+  ""date"": ""11/1/20/15"",
+  ""patient_name"": ""Mrs Belisko"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""413 Pottsh"",
+  ""doctor_name"": ""G. R. Combs"",
+  ""doctor_address"": ""Wallkshir Building"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Heroin Hydrock"",
+      ""dosage"": ""quot"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Combs Cuscote Emel"",
+      ""dosage"": ""zio"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""cough"",
+  ""other_instructions"": ""zt ine H2o every 3 hours for cough-""
+}
+```"
+/content/data/32.jpg,"```json
+{
+  ""date"": ""14/11/11"",
+  ""patient_name"": ""Mrs A Denison"",
+  ""patient_age"": ""21 1/2"",
+  ""patient_gender"": """",
+  ""patient_address"": ""23 Grosvenor Road\nJesmond\nNew Castle On Tyne"",
+  ""doctor_name"": ""Milton Friedman"",
+  ""doctor_address"": ""Adam Smith Justitote\nEdinburgh"",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Write out one thousand times: Capitalism is wonderful""
+}
+```"
+/content/data/128.jpg,"```json
+{
+  ""date"": ""July 18, 2021 9:19:11 AM IST"",
+  ""patient_name"": ""LAXMI"",
+  ""patient_age"": ""52"",
+  ""patient_gender"": ""Female"",
+  ""patient_address"": ""PITAMPURA"",
+  ""doctor_name"": ""Aum Serreur SIR"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": ""chaledith lowls with gelbladder Maling nang Chaldochodithbuns with modratedislation cf extrahepatite and intres hebahicbillen Multiple pampanaume. periportus, precalceel and pericholedochel lymph made-metartrahe"",
+  ""other_instructions"": """"
+}
+```"
+/content/data/47.jpg,"```json
+{
+  ""date"": ""7/1/51"",
+  ""patient_name"": ""Mrs. J. Paris"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""128 Crevik"",
+  ""doctor_name"": ""B"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Stivusesthol"",
+      ""dosage"": ""25 mg"",
+      ""frequency"": ""194n"",
+      ""duration"": ""8 days""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""then 1/1gd""
+}
+```"
+/content/data/37.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""W. P. BAKER"",
+  ""doctor_address"": ""Keefe Building"",
+  ""doctor_specialty"": ""Physician and Surgeon"",
+  ""medications"": [
+    {
+      ""name"": ""Ext. Cannobis Ind."",
+      ""dosage"": ""gr IV"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""croton Chlorol"",
+      ""dosage"": ""gr XV. m"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""caps no XVI"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Sick headache"",
+  ""other_instructions"": ""Sig. Give one cobas repeat in 1/2 thour""
+}
+```"
+/content/data/104.jpg,"```json
+{
+  ""date"": ""1/5/24"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Armin"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": ""Temporal bone Erosion lateral Semicircular Canal, Retracted Tympanic Membrane, Sclerosed Mastoid, Ossicle intact"",
+  ""other_instructions"": ""PTA, Impedance, 17(Soni Cholesteatoma""
+}
+```"
+/content/data/79.jpg,"```json
+{
+  ""date"": ""12-8-2015"",
+  ""patient_name"": ""ROBLE VINGLE"",
+  ""patient_age"": ""Cal"",
+  ""patient_gender"": ""F"",
+  ""patient_address"": """",
+  ""doctor_name"": ""MONICIT, SUBEM"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""M.D."",
+  ""medications"": [],
+  ""diagnosis"": """",
+  ""other_instructions"": ""PROFESSIONAL FEE - PAID\n22 YEARS AGO (ONE OF MY FAVORITE TEACHER!)\nS = 25\nN = 25\nA = 25\nP = 25\n100%""
+}
+```"
+/content/data/88.jpg,"```json
+{
+  ""date"": ""23 June 2012"",
+  ""patient_name"": ""W5EA"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""267 Jim Finley Rd. Calhoun, La 71225"",
+  ""doctor_name"": ""Terry"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": """",
+  ""other_instructions"": ""QSO Date: 7/15/12""
+}
+```"
+/content/data/18.jpg,"```json
+{
+  ""date"": ""11/16/10"",
+  ""patient_name"": ""Shorty Pavell"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""A"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""M.D."",
+  ""medications"": [
+    {
+      ""name"": ""Phenytoin Sodium Extended"",
+      ""dosage"": ""100 mg"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""#90\nRefill 5""
+}
+```"
+/content/data/89.jpg,"```json
+{
+  ""date"": ""6/23/95"",
+  ""patient_name"": ""Vargues Ramon"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""Harrison"",
+  ""doctor_name"": ""Ram/Kalla"",
+  ""doctor_address"": ""500-600 W. 4TH STREET\nODESSA, TEXAS"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Pendil"",
+      ""dosage"": ""20mg"",
+      ""frequency"": ""every 6 hours"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ferrous sulfate"",
+      ""dosage"": ""300mg"",
+      ""frequency"": ""three times daily with meals"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Humulin N"",
+      ""dosage"": ""30 units"",
+      ""frequency"": ""subcutaneously every morning"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/114.jpg,"```json
+{
+  ""date"": ""April 10, 2010"",
+  ""patient_name"": ""Harry Hypertensive"",
+  ""patient_age"": ""59"",
+  ""patient_gender"": ""Male"",
+  ""patient_address"": ""999 Gold Wine Rd"",
+  ""doctor_name"": ""W.E. Hansen"",
+  ""doctor_address"": ""123 Homestead Pl. Suite 2\nSearchlight, NV 89046"",
+  ""doctor_specialty"": ""MD"",
+  ""medications"": [
+    {
+      ""name"": ""Losartan"",
+      ""dosage"": ""50 milligram"",
+      ""frequency"": ""daily in the morning"",
+      ""duration"": ""by mouth""
+    }
+  ],
+  ""diagnosis"": ""blood pressure control"",
+  ""other_instructions"": ""Refill 6 (six) times""
+}
+```"
+/content/data/22.jpg,"```json
+{
+  ""date"": ""7/25/28"",
+  ""patient_name"": ""Bertha Quenfing"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""804 S. 18th St"",
+  ""doctor_name"": ""William Lewis Towns"",
+  ""doctor_address"": ""512 Main St., Columbus, Ohio"",
+  ""doctor_specialty"": ""M. D."",
+  ""medications"": [
+    {
+      ""name"": ""Judgini"",
+      ""dosage"": ""2"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Air"",
+      ""dosage"": ""2"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Belladonna"",
+      ""dosage"": ""2"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Armisti"",
+      ""dosage"": ""2"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Paint as directed morning evening""
+}
+```"
+/content/data/113.jpg,"```json
+{
+  ""date"": ""2-5-13"",
+  ""patient_name"": ""Lolita Aluaseny"",
+  ""patient_age"": ""39"",
+  ""patient_gender"": ""F"",
+  ""patient_address"": ""Bagong long, Pasig City"",
+  ""doctor_name"": ""Jodelacruz"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""FeSO4 tab"",
+      ""dosage"": ""#30"",
+      ""frequency"": ""A.D."",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ascorbic Acid"",
+      ""dosage"": ""500mg tab #30"",
+      ""frequency"": ""Once a day"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/13.jpg,"```json
+{
+  ""date"": ""3 8 0"",
+  ""patient_name"": ""John Beckwitte"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Hyprnodern Zang"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/122.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Nicardia R"",
+      ""dosage"": ""20"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Jasix"",
+      ""dosage"": ""40"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Pantac"",
+      ""dosage"": ""150"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Emeset Ave"",
+      ""dosage"": """",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Aalksh"",
+      ""dosage"": ""100"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Nodoin"",
+      ""dosage"": ""1"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""bowban"",
+      ""dosage"": ""1"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/80.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""Man Chaukanan-singh"",
+  ""patient_age"": ""57"",
+  ""patient_gender"": ""M/F"",
+  ""patient_address"": """",
+  ""doctor_name"": ""C.M. Singh"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": ""mild fever high grade fever\nloss of appetite\nvomiting 1 time after taking food yesterday\nswelling over left leg\ngeneralized weakness\nleft side limb weakness, neck rigidity\nold left BG bleed & old case of headache\nDVT developed in LL last month August 2020"",
+  ""other_instructions"": ""vital monitoring\nRBS charting""
+}
+```"
+/content/data/23.jpg,"```json
+{
+  ""date"": ""24 MAY 2011"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Aditya"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Ranitidine"",
+      ""dosage"": ""150mg"",
+      ""frequency"": ""twice daily"",
+      ""duration"": ""5 Days""
+    },
+    {
+      ""name"": ""Paracetamol"",
+      ""dosage"": ""500mg"",
+      ""frequency"": ""three times a day"",
+      ""duration"": ""5 days""
+    }
+  ],
+  ""diagnosis"": ""Gastritis"",
+  ""other_instructions"": ""Pain Abdomen. Used on food intake. Headache.""
+}
+```"
+/content/data/98.jpg,"```json
+{
+  ""date"": ""24/4/2021"",
+  ""patient_name"": ""Shailendra Kumar"",
+  ""patient_age"": ""37y"",
+  ""patient_gender"": ""M/F"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Guru"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""REMDESIVIR"",
+      ""dosage"": ""200mg i.v"",
+      ""frequency"": ""once"",
+      ""duration"": ""Day 1""
+    },
+    {
+      ""name"": ""REMDESIVIR"",
+      ""dosage"": ""100mg i.v"",
+      ""frequency"": ""once"",
+      ""duration"": ""for 4 days (Day 2-Day 5)""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""In case of any adverse reactions contact your doctor immediately Ph: 2360 8888""
+}
+```"
+/content/data/63.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": ""30"",
+  ""patient_gender"": ""M"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Sachin Kumar SG"",
+  ""doctor_address"": ""Dr. Sachin Kumar Clinic. Η ΝΟ 172 1A Main road\nCJO Anand Medical Store Shahabad Rural GB"",
+  ""doctor_specialty"": ""Orthopedics/Orthopedic Surgery"",
+  ""medications"": [
+    {
+      ""name"": ""Neurokind plus"",
+      ""dosage"": ""30"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Oro T gargles"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Allergic Rhinitis"",
+  ""other_instructions"": ""use in ½ glass of\nlukewarm water""
+}
+```"
+/content/data/10.jpg,"```json
+{
+  ""date"": ""24/8/21"",
+  ""patient_name"": ""CH. SAMUEL"",
+  ""patient_age"": ""62"",
+  ""patient_gender"": ""Male"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Naveen Polavarapu"",
+  ""doctor_address"": ""Apollo Hospitals, Jubilee Hills, Hyd-96."",
+  ""doctor_specialty"": ""Gastroenterologist and Transplant Hepatologist"",
+  ""medications"": [],
+  ""diagnosis"": ""Severe sepsis with MODS (likely lever abscess with aspiration pneumonia)"",
+  ""other_instructions"": ""Further needs hospital stay for about 8-10 days for complete recovery""
+}
+```"
+/content/data/44.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""honord 797uthard"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": ""Diabetes Mellitus, Drorhana chronic articular Rheumatism"",
+  ""other_instructions"": ""We find honord 797uthard Geoffering coth Duabitis millilie, Drorhana chronic article waliom which together disables him from hard Inannal later, in fact, cant do tut lille & von recommend that he be pluand on the 3l clues Roll Reuptly""
+}
+```"
+/content/data/112.jpg,"```json
+{
+  ""date"": ""5-4-XX"",
+  ""patient_name"": ""Melissa Austin"",
+  ""patient_age"": ""7"",
+  ""patient_gender"": """",
+  ""patient_address"": ""4321 State St."",
+  ""doctor_name"": ""Sear Murrell Mc"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Amofil Susp."",
+      ""dosage"": ""125mg"",
+      ""frequency"": ""qid"",
+      ""duration"": ""10 days""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Disp: #Z""
+}
+```"
+/content/data/50.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""T"",
+  ""patient_age"": ""26"",
+  ""patient_gender"": """",
+  ""patient_address"": ""Tondo, Manila"",
+  ""doctor_name"": ""Rojesm"",
+  ""doctor_address"": ""Suite 301, DSMT MAC, U.N. Avenue Ermita, Manila"",
+  ""doctor_specialty"": ""M.D."",
+  ""medications"": [],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Cardiologist on 10/6/20\nbed rest per 2 days while waiting for all lab results\nfit to work form. Oct 7, 20""
+}
+```"
+/content/data/58.jpg,"```json
+{
+  ""date"": ""28/08/19"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Cefelac"",
+      ""dosage"": ""3ml"",
+      ""frequency"": ""twice daily"",
+      ""duration"": ""7 days""
+    },
+    {
+      ""name"": ""RB Tone Kid"",
+      ""dosage"": ""2.5ml"",
+      ""frequency"": ""once daily"",
+      ""duration"": ""2 months""
+    },
+    {
+      ""name"": ""wikorye"",
+      ""dosage"": ""3ml"",
+      ""frequency"": ""3ml"",
+      ""duration"": ""3 days""
+    }
+  ],
+  ""diagnosis"": ""Typhoid IgM-Negative"",
+  ""other_instructions"": """"
+}
+```"
+/content/data/106.jpg,"```json
+{
+  ""date"": ""6/6"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Trilock"",
+      ""dosage"": ""100"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Domnum"",
+      ""dosage"": ""5 mg"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Argento"",
+      ""dosage"": ""1000 - 2 ml"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""PAC"",
+      ""dosage"": """",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Eroget"",
+      ""dosage"": """",
+      ""frequency"": ""twice daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Antiforte"",
+      ""dosage"": """",
+      ""frequency"": ""once daily"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/97.jpg,"```json
+{
+  ""date"": ""09-11-12"",
+  ""patient_name"": ""John Smith"",
+  ""patient_age"": ""34"",
+  ""patient_gender"": """",
+  ""patient_address"": ""162 Example St, NY"",
+  ""doctor_name"": ""Dr. Steve Johnson"",
+  ""doctor_address"": ""824 14th Street\nNew York, NY 91743, USA"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Betaloc"",
+      ""dosage"": ""100 mg"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Dorzolamidum"",
+      ""dosage"": ""10 mg"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Cimetidine"",
+      ""dosage"": ""50 mg"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Oxprelol"",
+      ""dosage"": ""50 mg"",
+      ""frequency"": ""every day"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""LABEL\nREFILL 012 3 4 5 PRN""
+}
+```"
+/content/data/8.jpg,"```json
+{
+  ""date"": ""22/4/22"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Sudip Roy"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""General & Laparoscopic Surgery Breast & Colorectal Surgeon"",
+  ""medications"": [
+    {
+      ""name"": ""SOMPRAZ"",
+      ""dosage"": ""40"",
+      ""frequency"": ""1-0-0"",
+      ""duration"": ""7x month""
+    },
+    {
+      ""name"": ""NORMAYIN-RT"",
+      ""dosage"": """",
+      ""frequency"": ""0-0-1"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Functional Dyspepsia"",
+  ""other_instructions"": ""Neurology Consultation\nGlycemic Control\nCardiac evaluation- not done""
+}
+```"
+/content/data/27.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""Mansur"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Moineddin"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Minipress (prazosin HCl)"",
+      ""dosage"": ""1mg, 2mg, 5mg"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""See Product Information on back cover for indications, dosage and administration, warnings and adverse reactions. Before prescribing Minipress, WARNINGS and DOSAGE AND ADMINISTRATION sections should be carefully reviewed.""
+}
+```"
+/content/data/9.jpg,"```json
+{
+  ""date"": ""March 10, 2009"",
+  ""patient_name"": ""Joseph McIntyre"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""C.O. Jones"",
+  ""doctor_address"": ""25 El Caro Street, Pleasantville, OH 43320"",
+  ""doctor_specialty"": ""ARNP"",
+  ""medications"": [
+    {
+      ""name"": ""Azithromycin"",
+      ""dosage"": ""200 mg/5 mL"",
+      ""frequency"": ""Day 1: 15 mL\nDay 2: 7.5 mL"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Dispense 5 mg/mL solution, 30 mL\nRefills: 0""
+}
+```"
+/content/data/19.jpg,"```json
+{
+  ""date"": ""4/26/2021"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": ""Physical injuries due to motorcycle accident (4/23/2021). Patient made uneventful clinical rest."",
+  ""other_instructions"": ""This is to certify that patient own city, is under my care.""
+}
+```"
+/content/data/11.jpg,"```json
+{
+  ""date"": ""04 NOV 2019"",
+  ""patient_name"": ""Govind Puri"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""अशोक गुप्ता"",
+  ""doctor_address"": ""मोदीनगर (8445897172)"",
+  ""doctor_specialty"": ""बाल रोग विशेषज्ञ"",
+  ""medications"": [
+    {
+      ""name"": ""Sup. Sumol AS"",
+      ""dosage"": ""4 ml"",
+      ""frequency"": ""four times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Syp. Mucolite LS"",
+      ""dosage"": ""2.5 ml"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Tab. Meftal-P"",
+      ""dosage"": ""1 tab"",
+      ""frequency"": ""SOS"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""fever old. ARI"",
+  ""other_instructions"": ""If as advice. review""
+}
+```"
+/content/data/60.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""Thummareddy"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr canean"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Liposomal Amphotericin-B"",
+      ""dosage"": ""350mg"",
+      ""frequency"": ""daily"",
+      ""duration"": ""4 weeks""
+    },
+    {
+      ""name"": ""Amphotericin-B"",
+      ""dosage"": ""70mg"",
+      ""frequency"": ""daily"",
+      ""duration"": ""4 weeks""
+    },
+    {
+      ""name"": ""Isavuconazole"",
+      ""dosage"": ""200mg"",
+      ""frequency"": ""half-1-1-1"",
+      ""duration"": ""2 weeks""
+    },
+    {
+      ""name"": ""Isavuconazole capsule"",
+      ""dosage"": ""200mg"",
+      ""frequency"": ""1-0-1"",
+      ""duration"": ""2 days""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/115.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""Vijayalershmi Getr."",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Shalina Ray"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""ENT Consultant"",
+  ""medications"": [
+    {
+      ""name"": ""Liposomal Amphotericin"",
+      ""dosage"": ""50mg x 2 vials (dose 300mg once a day)"",
+      ""frequency"": ""twice daily"",
+      ""duration"": ""6 vials/day""
+    },
+    {
+      ""name"": ""Amphotericin conventional"",
+      ""dosage"": ""50mg 6-8 weeks"",
+      ""frequency"": """",
+      ""duration"": ""1 vial/day""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Hosp. Nr.: 5858934""
+}
+```"
+/content/data/1.jpg,"```json
+{
+  ""date"": ""1 NOV 1994"",
+  ""patient_name"": ""Patient 30"",
+  ""patient_age"": ""70 years"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr B. Who"",
+  ""doctor_address"": ""Farmstreet 12\nKirkville"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Digoxin"",
+      ""dosage"": ""0.125 mg"",
+      ""frequency"": ""1 dd"",
+      ""duration"": ""7 tablets""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""1 tablet""
+}
+```"
+/content/data/61.jpg,"```json
+{
+  ""date"": ""Dec 1 2017"",
+  ""patient_name"": ""John Hubbard"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Jones"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Acetaminophen"",
+      ""dosage"": ""650mg"",
+      ""frequency"": ""every 4 hours PRN"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Aspirin"",
+      ""dosage"": ""81mg"",
+      ""frequency"": ""once daily by mouth"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Clopidogrel"",
+      ""dosage"": ""75mg"",
+      ""frequency"": ""once daily by mouth"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""coronary artery disease"",
+  ""other_instructions"": """"
+}
+```"
+/content/data/129.jpg,"```json
+{
+  ""date"": ""1 nov 1994"",
+  ""patient_name"": ""Patient 32"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr B. Who"",
+  ""doctor_address"": ""Farmstreet 12\nKirkville"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Tolbutamide"",
+      ""dosage"": ""1000 mg"",
+      ""frequency"": ""1 tablet 1 tablet before breakfast"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""morphine"",
+      ""dosage"": ""ten milligram"",
+      ""frequency"": ""one tablet every six hours, two before the night"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""maximum 5 daily""
+}
+```"
+/content/data/95.jpg,"```json
+{
+  ""date"": ""10/01/2020"",
+  ""patient_name"": ""BABYRITI DUBEY"",
+  ""patient_age"": ""1 Year 2 Months 30 Days"",
+  ""patient_gender"": ""Female"",
+  ""patient_address"": """",
+  ""doctor_name"": ""SAMPURNA GHOSH"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""ENT, Head and Neck Surgeon"",
+  ""medications"": [],
+  ""diagnosis"": ""Bilateral Profound Hearing Loss."",
+  ""other_instructions"": ""BERA: No peak at 90dB\nOAE: Refer\nImpedence- WNL\nMotor milestones - development, social development good.\nCT scan temporal bone & MRI - Cochlear Implant Protocol.\nPlease give maximum discount.""
+}
+```"
+/content/data/127.jpg,"```json
+{
+  ""date"": ""11-11-03"",
+  ""patient_name"": ""Garaisou, Cassandra"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Robert Xeno"",
+  ""doctor_address"": ""3302 Vickers Road, Baltimore, MD, 21218"",
+  ""doctor_specialty"": ""Oncology"",
+  ""medications"": [
+    {
+      ""name"": ""Oxycontin"",
+      ""dosage"": ""80mg"",
+      ""frequency"": ""every 6 hours as needed"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""for chest pain""
+}
+```"
+/content/data/36.jpg,"```json
+{
+  ""date"": ""6/5/2021"",
+  ""patient_name"": ""Mrs Machler Deus"",
+  ""patient_age"": ""60/4"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Ravindra Kumar"",
+  ""doctor_address"": ""Ex-Fortis Hospital, Delhi\nEx-Medanta - The Medicity Hospital, Gurgaon"",
+  ""doctor_specialty"": ""Consultant Physician, Heart & Diabetes Specialist"",
+  ""medications"": [
+    {
+      ""name"": ""My Clexane"",
+      ""dosage"": ""60"",
+      ""frequency"": ""SIC"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Cep-Doxy"",
+      ""dosage"": ""100 mg 130"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""With"",
+      ""dosage"": ""16 mg"",
+      ""frequency"": ""BD"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Monstair"",
+      ""dosage"": """",
+      ""frequency"": ""on"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Vitc SO"",
+      ""dosage"": """",
+      ""frequency"": ""BD"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Zicaert"",
+      ""dosage"": """",
+      ""frequency"": ""on"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Metocarol"",
+      ""dosage"": ""25"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Enas"",
+      ""dosage"": ""Sngle"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Xotear"",
+      ""dosage"": ""PA"",
+      ""frequency"": ""on"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Complete Resifem"",
+      ""dosage"": """",
+      ""frequency"": ""sdys"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Nebulizer"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Covid-19"",
+  ""other_instructions"": ""with shortness of Breath\nChest feen.\nFans""
+}
+```"
+/content/data/99.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": ""Akula vanen"",
+  ""patient_age"": ""30"",
+  ""patient_gender"": ""Male"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Bathi Reddy"",
+  ""doctor_address"": ""Manipal Hospital Bangalore-17"",
+  ""doctor_specialty"": ""ENT Surgeon"",
+  ""medications"": [
+    {
+      ""name"": ""Liposomal Amphotericin B"",
+      ""dosage"": ""350 mg"",
+      ""frequency"": ""7 vials"",
+      ""duration"": ""4 weeks""
+    }
+  ],
+  ""diagnosis"": ""Mucomycosis infestation"",
+  ""other_instructions"": ""Kindly do the needful.""
+}
+```"
+/content/data/74.jpg,"```json
+{
+  ""date"": ""17/3/19"",
+  ""patient_name"": ""Mrs. Kamin"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Jayaprakash Hebbar"",
+  ""doctor_address"": ""No. 1, Diamond Palace, Hill Road, Bandra, Mumbai-400 050"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Lanol ER"",
+      ""dosage"": ""1"",
+      ""frequency"": ""after food"",
+      ""duration"": ""5 days""
+    },
+    {
+      ""name"": ""Dompan"",
+      ""dosage"": ""1"",
+      ""frequency"": ""before food"",
+      ""duration"": ""5 days""
+    },
+    {
+      ""name"": ""Fluid Electrolytes/Glucose"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/118.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""doc"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Serhibe"",
+      ""dosage"": ""7.5"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Gramocef"",
+      ""dosage"": ""0 Day"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Lerolin"",
+      ""dosage"": ""M"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Naucior"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": ""26009""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""noval drop twice daily""
+}
+```"
+/content/data/57.jpg,"```json
+{
+  ""date"": ""1 Nov 1994"",
+  ""patient_name"": ""Patient 30"",
+  ""patient_age"": ""70 years"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr B. Who"",
+  ""doctor_address"": ""Farmstreet 12, Kirkville"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Digoxin"",
+      ""dosage"": ""0.125 mg"",
+      ""frequency"": ""1 once a day 1 tablet"",
+      ""duration"": ""no.7 tablets""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/73.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Syrup Omesit"",
+      ""dosage"": ""4 ml"",
+      ""frequency"": ""twice daily"",
+      ""duration"": null
+    },
+    {
+      ""name"": ""T. Lanzol"",
+      ""dosage"": ""15 mg"",
+      ""frequency"": ""three times daily"",
+      ""duration"": null
+    },
+    {
+      ""name"": ""Enterogermina"",
+      ""dosage"": ""5 ml"",
+      ""frequency"": ""once daily"",
+      ""duration"": ""5 days""
+    },
+    {
+      ""name"": ""Syrup Relent Plus"",
+      ""dosage"": ""2.5 ml - 0 - 2.5 ml"",
+      ""frequency"": null,
+      ""duration"": ""3 days""
+    }
+  ],
+  ""diagnosis"": ""Adv"",
+  ""other_instructions"": ""30 minutes before meals\nORS / coconut water""
+}
+```"
+/content/data/111.jpg,"```json
+{
+  ""date"": ""11-11-19"",
+  ""patient_name"": ""Aarna"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Bharat Kumar Sharma"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Neonatology"",
+  ""medications"": [
+    {
+      ""name"": ""Colal GM"",
+      ""dosage"": ""15 m effer"",
+      ""frequency"": ""three times a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""lay P"",
+      ""dosage"": ""5 ml"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ehh PD"",
+      ""dosage"": ""5 ml"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ach M"",
+      ""dosage"": ""5 ml"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ranyo"",
+      ""dosage"": ""1000 5 ml"",
+      ""frequency"": ""two four times a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Nebuh Duah"",
+      ""dosage"": ""2 ml"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Budil"",
+      ""dosage"": ""0.5y"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Duxure"",
+      ""dosage"": ""2 ml"",
+      ""frequency"": ""1 ml"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/109.jpg,"```json
+{
+  ""date"": ""A101117"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Deanse"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""STALEVO"",
+      ""dosage"": ""125/31.25/200"",
+      ""frequency"": ""XS"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""LEVODOPA"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""CARBIDOPA"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""ENTACAPONE"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/24.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Raja Nag"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Cardiology"",
+  ""medications"": [
+    {
+      ""name"": ""Deplett A"",
+      ""dosage"": ""150mg"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Aztor"",
+      ""dosage"": ""80mg"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Nitrocontin"",
+      ""dosage"": ""2.6mg"",
+      ""frequency"": ""once a day"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Anterior ST-elevation myocardial infarction, Hypertension"",
+  ""other_instructions"": ""Turn over""
+}
+```"
+/content/data/56.jpg,"```json
+{
+  ""date"": ""6/23/95"",
+  ""patient_name"": ""Varques Ramon"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Ram Keller"",
+  ""doctor_address"": ""500-600 W 4TH STREET, ODESSA. TEXAS"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Pendil"",
+      ""dosage"": ""20mg"",
+      ""frequency"": ""every 6 hours"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ferrous Sulfate"",
+      ""dosage"": ""300mg"",
+      ""frequency"": ""three times daily with meals"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Humulin N"",
+      ""dosage"": ""30 units"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/69.jpg,"```json
+{
+  ""date"": ""1/1/12"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Adoctor 2316"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""PABRINEX"",
+      ""dosage"": ""2 pairs"",
+      ""frequency"": ""TDS"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""5-7/7""
+}
+```"
+/content/data/70.jpg,"```json
+{
+  ""date"": ""1 NOV 1994"",
+  ""patient_name"": ""Patient 29"",
+  ""patient_age"": ""5 years"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr B. Who"",
+  ""doctor_address"": ""Farmstreet 12, Kirkville"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Amoxicillin"",
+      ""dosage"": ""50 mg/ml"",
+      ""frequency"": ""three times daily"",
+      ""duration"": ""Finish course""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Susp. da 100 ml, 5 ml spoon""
+}
+```"
+/content/data/83.jpg,"```json
+{
+  ""date"": ""April 10, 2010"",
+  ""patient_name"": ""Harry Hypertensive"",
+  ""patient_age"": ""59"",
+  ""patient_gender"": ""M"",
+  ""patient_address"": ""999 Gold Mine Rd"",
+  ""doctor_name"": ""W.E. Hansen"",
+  ""doctor_address"": ""123 Homestead Pl. Suite 2\nSearchlight, NV 89046"",
+  ""doctor_specialty"": ""MD"",
+  ""medications"": [
+    {
+      ""name"": ""Losartan"",
+      ""dosage"": ""50 milligram"",
+      ""frequency"": ""Take one by mouth daily in the morning"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""blood pressure control"",
+  ""other_instructions"": ""Dispense #30\nRefill 6 (six) times\nGeneric Substitution OK""
+}
+```"
+/content/data/41.jpg,"```json
+{
+  ""date"": ""1 NOV 1994"",
+  ""patient_name"": ""Patient 29"",
+  ""patient_age"": ""5 years"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr B. Who"",
+  ""doctor_address"": ""Farmstreet 12 Kirkville"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Amoxicillin"",
+      ""dosage"": ""50 mg/ml"",
+      ""frequency"": ""3dd"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Susp. da 100 ml\nS. 3dd 5 ml. Finish course\n(add 5 ml spoon)""
+}
+```"
+/content/data/124.jpg,"```json
+{
+  ""date"": ""10-02-2021"",
+  ""patient_name"": ""Dalia Kundu"",
+  ""patient_age"": ""64"",
+  ""patient_gender"": ""F"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Tanmoy Kumar Mandal"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Medical Oncology"",
+  ""medications"": [
+    {
+      ""name"": ""6# (P+H)"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Inj Xgeva"",
+      ""dosage"": ""120"",
+      ""frequency"": ""alternate #"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""HMW"",
+      ""dosage"": """",
+      ""frequency"": ""three times a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Closeu"",
+      ""dosage"": """",
+      ""frequency"": ""three times a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""T. Dexa"",
+      ""dosage"": ""4"",
+      ""frequency"": ""twice daily"",
+      ""duration"": ""D2-D4""
+    },
+    {
+      ""name"": ""T. Ondan"",
+      ""dosage"": ""4"",
+      ""frequency"": ""twice daily"",
+      ""duration"": ""D2-D4""
+    },
+    {
+      ""name"": ""T. Ultracet"",
+      ""dosage"": """",
+      ""frequency"": ""twice daily"",
+      ""duration"": ""5 days""
+    }
+  ],
+  ""diagnosis"": ""Bone/Lung/Liver"",
+  ""other_instructions"": ""CBC\nGive G(P+H) on 10/2/21\nR/S on 3/3/21, CBC for C2""
+}
+```"
+/content/data/107.jpg,"```json
+{
+  ""date"": ""3.23.03"",
+  ""patient_name"": ""Adams"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""HA Brocon"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""M. D."",
+  ""medications"": [
+    {
+      ""name"": ""Codeinas Sueph"",
+      ""dosage"": ""gr. TⅣ"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Est. Sanguinarias Al."",
+      ""dosage"": ""Z TⅣ"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Syrupi. Yerba Saud Shom"",
+      ""dosage"": ""Zor"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Z55 - Z; when necessary as directed""
+}
+```"
+/content/data/94.jpg,"```json
+{
+  ""date"": ""Dec 1 2017"",
+  ""patient_name"": ""John Hubbard"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr Jones"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Acetaminophen"",
+      ""dosage"": ""650mg"",
+      ""frequency"": ""every 4 hours as needed"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Aspirin"",
+      ""dosage"": ""81mg"",
+      ""frequency"": ""daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Clopidogrel"",
+      ""dosage"": ""75mg"",
+      ""frequency"": ""daily"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""coronary artery disease"",
+  ""other_instructions"": """"
+}
+```"
+/content/data/78.jpg,"```json
+{
+  ""date"": ""7/6/15"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": ""Small calculus in lower calyx of LK without hydronephrosis"",
+  ""other_instructions"": ""Control:\nA small radio-opaque shadow seen in the left renal region.\nTwo radio-opaque shadows seen in the pelvis, likely to be of ligation clips.\nOn contrast (IV):\nBoth kidneys are excreting contrast normally.\nBIL partial duplex moiety.\nBIL ureters are normal.\nBladder normal.\nPost void residual urine insignificant in patient.""
+}
+```"
+/content/data/45.jpg,"```json
+{
+  ""date"": ""5/10 to 17/10/16"",
+  ""patient_name"": ""Keviy"",
+  ""patient_age"": ""200"",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""शेखर जैन"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""PAED"",
+  ""medications"": [
+    {
+      ""name"": ""Croxim"",
+      ""dosage"": ""1/2"",
+      ""frequency"": ""once"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Clearl"",
+      ""dosage"": ""1/3-1/3-1/3"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""О сишиф"",
+      ""dosage"": ""7-7-7"",
+      ""frequency"": ""once"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Astuccef"",
+      ""dosage"": ""6-6-6"",
+      ""frequency"": ""once"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Polymal"",
+      ""dosage"": ""101010"",
+      ""frequency"": ""once"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Mozia"",
+      ""dosage"": """",
+      ""frequency"": ""twice"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": """"
+}
+```"
+/content/data/25.jpg,"```json
+{
+  ""date"": ""10/5/28"",
+  ""patient_name"": ""L.E. Stegner"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""Glennorch Drive"",
+  ""doctor_name"": ""M.E. Tower"",
+  ""doctor_address"": ""Col"",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Putr. Ofii"",
+      ""dosage"": ""gr XXIV"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ex Belladonnae"",
+      ""dosage"": ""gr VI"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Icthiolis"",
+      ""dosage"": ""T"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Ol. Theobrony"",
+      ""dosage"": ""gr ad"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Mur fh Supositoria"",
+      ""dosage"": ""no XXIU"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""One as directed morning and evening""
+}
+```"
+/content/data/100.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""W. P. BAKER"",
+  ""doctor_address"": ""Keefe Building"",
+  ""doctor_specialty"": ""Physician and Surgeon"",
+  ""medications"": [
+    {
+      ""name"": ""extract Cannabis Indica"",
+      ""dosage"": ""4 grains"",
+      ""frequency"": """",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Croton Chloral"",
+      ""dosage"": ""16 grains"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""Sick headache"",
+  ""other_instructions"": ""16 capsules\ngive one cober repeat in 1/2 hour""
+}
+```"
+/content/data/76.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Metadate"",
+      ""dosage"": ""10mg"",
+      ""frequency"": ""three times daily"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""#100 (one hundred)""
+}
+```"
+/content/data/102.jpg,"```json
+{
+  ""date"": """",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""meds"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""Menses: Very light\nLast PAP ~ lyrapo\nSlim no IUD string seen\nIUD hook used\nUltrasound to check position of IUD\nReturn to clinic after ultrasound\nDiscuss for removal""
+}
+```"
+/content/data/75.jpg,"```json
+{
+  ""date"": ""12-03-90"",
+  ""patient_name"": ""Armando Coquia"",
+  ""patient_age"": ""29"",
+  ""patient_gender"": ""M"",
+  ""patient_address"": ""West Rimbo, Makati City"",
+  ""doctor_name"": ""Idela Cruz"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Amoxicillin"",
+      ""dosage"": ""500mg Cap #21"",
+      ""frequency"": ""three times a day"",
+      ""duration"": ""seven days""
+    }
+  ],
+  ""diagnosis"": ""Hiniox"",
+  ""other_instructions"": ""1 cap""
+}
+```"
+/content/data/55.jpg,"```json
+{
+  ""date"": ""15/3"",
+  ""patient_name"": ""KAR"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": """",
+  ""doctor_address"": ""Cooper 12% in PLC."",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Augmentin duo syrup"",
+      ""dosage"": ""6 ml"",
+      ""frequency"": ""twice daily"",
+      ""duration"": ""7 days""
+    },
+    {
+      ""name"": ""Ambrodil-S syrup"",
+      ""dosage"": ""4 ml"",
+      ""frequency"": ""twice daily"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Nasoclear nasal drops"",
+      ""dosage"": """",
+      ""frequency"": ""four times a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""LC2 (Levocetirizine) "",
+      ""dosage"": ""1/2 tab"",
+      ""frequency"": """",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""dilated left tear, e mild LOS, Need further anesthesia, may pre ct Aigio"",
+  ""other_instructions"": ""Continue nebulization, Review after 2 weeks, once L17 settles""
+}
+```"
+/content/data/108.jpg,"```json
+{
+  ""date"": ""13/7/2021"",
+  ""patient_name"": ""LAXMI"",
+  ""patient_age"": ""52 Y/ 0"",
+  ""patient_gender"": ""Female"",
+  ""patient_address"": ""PITAM PURA"",
+  ""doctor_name"": ""kumud"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [
+    {
+      ""name"": ""Diclo"",
+      ""dosage"": ""1 tab"",
+      ""frequency"": ""twice a day"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Rantac"",
+      ""dosage"": ""1 tab"",
+      ""frequency"": ""once daily before breakfast"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Inj. Diclo"",
+      ""dosage"": ""1 amp"",
+      ""frequency"": ""stat"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Inj. Rantac"",
+      ""dosage"": ""1 amp"",
+      ""frequency"": ""stat"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""ORS"",
+      ""dosage"": """",
+      ""frequency"": """",
+      ""duration"": ""1 L water""
+    }
+  ],
+  ""diagnosis"": ""HTN, pain abdomen"",
+  ""other_instructions"": ""Review in OPD, USG on 23/3/2021 - Cholecystitis, Cholelithiasis, Muco/poly pyocele of GB""
+}
+```"
+/content/data/14.jpg,"```json
+{
+  ""date"": ""24/4/21"",
+  ""patient_name"": ""Ajay Sethi"",
+  ""patient_age"": ""62"",
+  ""patient_gender"": ""M"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Ajay Sahdev"",
+  ""doctor_address"": ""E-37 A #15, Rajouri Garden, New Delhi-110027"",
+  ""doctor_specialty"": ""Family Physician & Diabetologist"",
+  ""medications"": [
+    {
+      ""name"": ""REMDESIVIR"",
+      ""dosage"": ""200 mg"",
+      ""frequency"": ""STAT"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""REMDESIVIR"",
+      ""dosage"": ""100 mg"",
+      ""frequency"": ""once daily"",
+      ""duration"": ""4 days""
+    },
+    {
+      ""name"": ""Actemra"",
+      ""dosage"": ""400 mg"",
+      ""frequency"": ""once daily"",
+      ""duration"": ""2 doses with a gap of 2 days""
+    }
+  ],
+  ""diagnosis"": ""COVID"",
+  ""other_instructions"": """"
+}
+```"
+/content/data/40.jpg,"```json
+{
+  ""date"": ""13/5/21"",
+  ""patient_name"": ""Ramachandra Rao"",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": ""604"",
+  ""doctor_name"": ""Dr. Hari Kishan Boorugu"",
+  ""doctor_address"": ""Somajiguda, Hyderabad-500 082"",
+  ""doctor_specialty"": ""Physician & Diabetologist"",
+  ""medications"": [
+    {
+      ""name"": ""PHOSOME (Liposomal Amphotericin) AMBISOME"",
+      ""dosage"": ""300 mg"",
+      ""frequency"": ""5 hr"",
+      ""duration"": ""one day - 15 days""
+    }
+  ],
+  ""diagnosis"": """",
+  ""other_instructions"": ""iv (a 5% Dextrose)""
+}
+```"
+/content/data/91.jpg,"```json
+{
+  ""date"": ""4/3/20"",
+  ""patient_name"": """",
+  ""patient_age"": """",
+  ""patient_gender"": """",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. Swati hiche"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""Neurology"",
+  ""medications"": [],
+  ""diagnosis"": ""Gunshot injury on 24/2/20.\n% paraplegia and loss of sensation\nGrade 0/5 B/L LL\nLoss of sensation below the \nPromised Ani? vasula injury to pin"",
+  ""other_instructions"": ""MRI Dorso-lumbar spine c contrast\nReview & Report\nWe don't take MLC Cases.""
+}
+```"
+/content/data/84.jpg,"```json
+{
+  ""date"": ""26/10/20"",
+  ""patient_name"": ""Maleeha Qureshi"",
+  ""patient_age"": ""20"",
+  ""patient_gender"": ""F"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Raja Yasser Shahbaz"",
+  ""doctor_address"": ""14- Abu Bakar Block, New Garden Town, Lahore-Pakistan"",
+  ""doctor_specialty"": ""Consultant Physician (Head of Medicine), Gastroenterologist Associate Professor of Medicine"",
+  ""medications"": [
+    {
+      ""name"": ""ATT"",
+      ""dosage"": ""Ol"",
+      ""frequency"": ""week"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Tramal + gavinate"",
+      ""dosage"": ""10 cc"",
+      ""frequency"": ""as needed"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Avil + Solo cortef"",
+      ""dosage"": ""250mg"",
+      ""frequency"": ""as needed"",
+      ""duration"": """"
+    },
+    {
+      ""name"": ""Risek"",
+      ""dosage"": ""40mg"",
+      ""frequency"": ""as needed intravenous"",
+      ""duration"": """"
+    }
+  ],
+  ""diagnosis"": ""GERD (8 years), Hyperthyroidism (1 year), Migraine, IBS (1 year), Appendectomy (1 year), Ruptured ovarian cyst, Endometriosis, Partial cardia arrest, Asthma (3 years), Allergic Rhinitis, Anxiety / Depression, Rectal ulcer."",
+  ""other_instructions"": ""Multiple Blood tests: negative, ENA profile - Primary Biliary cirrhosis, Patient is allergic to onset, rosen, Naproxen, amikacin, levofloxacin, cefixime, ceftriaxone, Nezkid, Azomax, Tramal.""
+}
+```"
+/content/data/51.jpg,"```json
+{
+  ""date"": ""26/04/2021"",
+  ""patient_name"": ""Ismail shaik"",
+  ""patient_age"": ""48"",
+  ""patient_gender"": ""Male"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Mahesh Kumar Revoori"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": ""ENT Surgeon"",
+  ""medications"": [],
+  ""diagnosis"": ""Imarre shenocencore/ nwermycoin"",
+  ""other_instructions"": ""Rt cheek pain since 5 days.\nReduced vision right eye since 5 days.\nNasal discharge/ bleeding from nose.\nHeadache, Fever cough\nSagav DM, on insuliri\nHTN (+).\nnose - Rt middle meati- cust (+).\nLeft middle meati- des\npalete - WNL\nRt Eye - LP (+).\nMRI brain, orbit, Culk PNS\nOpthalmology opinion (Dr. Promethit)\nMajor surgical profile\n2D echo\nPulmonology fitness (deny)\nPAC check-up\nChest HRCT\nRapid Antigen FBS/PLBS\nPlan: FESS + debridement""
+}
+```"
+/content/data/85.jpg,"```json
+{
+  ""date"": ""18-01-2020"",
+  ""patient_name"": ""Mrs Meena Dixit"",
+  ""patient_age"": ""41"",
+  ""patient_gender"": ""F"",
+  ""patient_address"": """",
+  ""doctor_name"": ""Dr. A.K. Dewan"",
+  ""doctor_address"": """",
+  ""doctor_specialty"": """",
+  ""medications"": [],
+  ""diagnosis"": ""Carcinoma Left Breast"",
+  ""other_instructions"": ""Plan:\n1- Neo-adjuvant chemotherapy followed by reassessment for Surgery + Adjuvant Radiation Therapy""
+}
+```"
